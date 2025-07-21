@@ -1,0 +1,8 @@
+Flask==2.3.3
+gunicorn==21.2.0
+notion-client==2.2.1
+pandas
+matplotlib
+openpyxl
+plotly
+requests
